@@ -7,7 +7,7 @@ Qinke Ni, Hongyu Zhang, Shengbing Pei, Chang Zhou, Zhao Lv, Cunhang Fan. DBPNet:
 
 # Preprocess
 * Please download the AAD dataset for training.
-* The public [KUL dataset](https://zenodo.org/record/3997352#.YUGaZdP7R6q), [DTU dataset](https://zenodo.org/record/1199011#.Yx6eHKRBxPa) and MM-AAD(not yet open) are used in this paper.
+* The public [KUL dataset](https://zenodo.org/records/4004271), [DTU dataset](https://zenodo.org/record/1199011#.Yx6eHKRBxPa) and MM-AAD(not yet open) are used in this paper.
 
 # Requirements
 + Python3.11.4 \
