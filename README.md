@@ -17,3 +17,21 @@ Qinke Ni, Hongyu Zhang, Shengbing Pei, Chang Zhou, Zhao Lv, Cunhang Fan. DBPNet:
 * Modify the `args.*` variable in model.py to match the dataset
 * Using model.py to train and test the model 
 * Using multi_processing.py to train and test the model in parallel
+
+## The First Chinese Auditory Attention Decoding Challenge (ISCSLP 2024)
+The First Chinese Auditory Attention Decoding Challenge organized by us at ISCSLP 2024 is now open for registration. The baseline code and data are all public. Everyone is welcome to sign up and participate.
+
+Challenge Website： 
+http://www.iscslp2024.com/ChineseAAD
+
+Timeline of the Chinese AAD Challenge:
+
+21 May 2024: Release of the baseline system, Train and Eval data.
+
+20 Jun 2024: Registration deadline, the due date for participants to join the challenge.
+
+4 Jul 2024: Release of the Test data.
+
+6 Jul 2024: Final submission deadline.
+
+8 Jul 2024: Release of the results and rankings.
